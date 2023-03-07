@@ -23,6 +23,3 @@ This project was created by Giorge Lucas.
 ## License
 
 This project is licensed under the MIT License.
-``
-python main.py
-``
