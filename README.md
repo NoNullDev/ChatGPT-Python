@@ -15,6 +15,14 @@ you will need the api Key to use this code
 3 - copy and put in the ``openai.api_key`` variable
 
 4 - to run the code, use:
+
+## Credits
+
+This project was created by Giorge Lucas.
+
+## License
+
+This project is licensed under the MIT License.
 ``
 python main.py
 ``
