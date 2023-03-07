@@ -14,7 +14,7 @@ you will need the api Key to use this code
 
 3 - copy and put in the ``openai.api_key`` variable
 
-4 - to run the code, use:
+4 - to run the code, use: ``python main.py``
 
 ## Credits
 
